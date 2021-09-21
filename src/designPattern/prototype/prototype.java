@@ -7,7 +7,7 @@ package designPattern.prototype;
 
 /**
  *
- * @author Hp
+ * @author Mohammed dwikat
  */
 interface Prototype{  
      public Prototype clone() throws CloneNotSupportedException;     
