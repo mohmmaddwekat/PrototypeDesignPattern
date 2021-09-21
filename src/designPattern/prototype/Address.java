@@ -7,7 +7,7 @@ package designPattern.prototype;
 
 /**
  *
- * @author Hp
+ * @author Mohammed dwikat
  */
 public class Address {
     private String location;
