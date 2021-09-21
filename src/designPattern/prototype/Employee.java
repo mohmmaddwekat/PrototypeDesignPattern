@@ -7,7 +7,7 @@ package designPattern.prototype;
 
 /**
  *
- * @author Hp
+ * @author Mohammed dwikat
  */
 import designPattern.prototype.Address;
 import designPattern.prototype.Prototype;
